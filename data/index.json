@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "小一",
+        "gender": "男",
+        "img": "0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "小二",
+        "gender": "女",
+        "img": "1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "小三",
+        "gender": "男",
+        "img": "2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "小四",
+        "gender": "女",
+        "img": "3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "小五",
+        "gender": "男",
+        "img": "4.jpg"
+    },
+    {
+        "img": "4.jpg",
+        "name": "adas",
+        "gender": "男",
+        "id": 6
+    }
+]
